@@ -1,7 +1,7 @@
 // Copyright(c) 2022 Evgeny Vovk All rights reserved.
 //
 // Created by : Evgeny Vovk
-// Created on : January 2022
+// Created on : January 2023
 // ICS3U-Unit6-02.cpp File, learning functions with parameters in C++.
 
 #include <array>
